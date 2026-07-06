@@ -152,6 +152,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
+- <img src="https://avatars.githubusercontent.com/u/7682893?s=200&v=4" height="14"/> [SignWell](https://github.com/Bidsketch/signwell-mcp) - Official MCP server for SignWell e-signatures. Create document drafts from files or reusable templates, send them for signing, track status, send reminders, and download completed PDFs.
 
 
 <br />
